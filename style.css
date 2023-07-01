@@ -102,3 +102,17 @@ button {
     font-size: var(--p-small);
 }
 
+.mg-topBotton {
+    margin-block: 1rem;
+}
+
+.mg-top {
+    margin-top: 1rem;
+}
+
+.mg-bottom {
+    margin-bottom: 1rem;
+}
+
+
+
