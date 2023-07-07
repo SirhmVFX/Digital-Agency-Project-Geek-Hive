@@ -114,5 +114,20 @@ button {
     margin-bottom: 1rem;
 }
 
+.pd-inline {
+    padding-inline: 1rem;
+}
 
+
+.primary-color {
+    color: var(--primary-color);
+}
+
+.grey {
+    color: var(--grey);
+}
+
+.black {
+    color: var(--black);
+}
 
