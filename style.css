@@ -1,0 +1,20 @@
+/* IMPORT FONT */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Russo+One&display=swap');
+
+
+/* DOCUMENT RESET */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: ;
+}
+
+button, textarea, input {
+    font-family: inherit;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
