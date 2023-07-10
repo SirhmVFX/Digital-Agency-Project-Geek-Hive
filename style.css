@@ -53,7 +53,7 @@ a {
     margin-inline: auto;
     justify-content: center;
     align-items: center;
-    padding: 3rem;
+    padding: 22px;
 }
 
 
@@ -130,4 +130,17 @@ button {
 .black {
     color: var(--black);
 }
+
+
+
+/* GENERAL STYLES */
+
+
+
+
+
+
+
+
+/* RESPONSIVENESS */
 
