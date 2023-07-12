@@ -17,4 +17,19 @@ button, textarea, input {
 img {
     width: 100%;
     height: auto;
+    display: block;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+/* CSS VARIABLES */
+:root{
+    --ff-heading: 'Russo One', sans-serif;
+    --ff-body: 'Montserrat', sans-serif;
+
+
 }
