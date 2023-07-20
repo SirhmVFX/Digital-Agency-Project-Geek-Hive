@@ -38,7 +38,8 @@ a {
 
     --primary-color: #0072C6;
     --grey: #707070;
-    --black: white;
+    --black: #000;
+    --white: #fff;
 }
 
 
@@ -77,5 +78,11 @@ h5 {
 }
 
 h6 {
-    
+
+}
+
+
+button {
+    padding: 16px, 32px, 16px, 32px;
+    color: --;
 }
