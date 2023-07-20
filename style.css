@@ -81,8 +81,22 @@ h6 {
 
 }
 
+.p-large {
+
+}
+
+.p-medium {
+
+}
+
+.p-small {
+
+}
+
 
 button {
     padding: 16px, 32px, 16px, 32px;
-    color: --;
+    color: var(--white);
+    background-color: var(--primary-color);
+    
 }
