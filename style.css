@@ -63,6 +63,8 @@ a {
 
 
 h1 {
+    font-size: var(--fs-h1);
+    font-family: var(--ff-heading);
 
 }
 
@@ -86,16 +88,20 @@ h6 {
 
 }
 
+.p-xlarge {
+    font-size: var(--p-xlarge);
+}
+
 .p-large {
     font-size: var(--p-large);
 }
 
 .p-medium {
-    font-size: ;
+    font-size: var(--p-medium);
 }
 
 .p-small {
-
+    font-size: var(--p-small);
 }
 
 
@@ -134,6 +140,10 @@ button {
 
 .black {
     color: var(--black);
+}
+
+.white {
+    color: var(--white)
 }
 
 
