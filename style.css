@@ -98,5 +98,7 @@ button {
     padding: 16px, 32px, 16px, 32px;
     color: var(--white);
     background-color: var(--primary-color);
-    
+    border-radius: 8px;
+    font-size: var(--p-small);
 }
+
