@@ -33,7 +33,7 @@ a {
 
     --fs-h1: clamp(50px, 5vw, 24px);
     --fs-h2: clamp(48px, 4vw, 32px);
-    --fs-h3: clamp(3rem, 3vw, 1rem);
+    --fs-h3: clamp(36px, 3vw, 24px);
     --fs-h4: clamp(1rem, 3vw, .8rem);
 
     --p-small: 12px;
@@ -65,15 +65,15 @@ a {
 h1 {
     font-size: var(--fs-h1);
     font-family: var(--ff-heading);
-
 }
 
 h2 {
-
+    font-size: var(--fs-h2);
+    font-family: var(--ff-heading);
 }
 
 h3 {
-
+    font-size: var(--fs-h3);
 }
 
 h4 {
