@@ -18,37 +18,23 @@
 
 - h4: For Heading 4 Level Text - 24px
 
-- h5: For HEading 5 Level Text - 20px
+- h5: For HEading 5 Level Text - 24px
 
-- h6: For Heading 6 Level Text -
+- h6: For Heading 6 Level Text - 24px
 
-.p-xlarge {
-font-size: var(--p-xlarge);
-}
+- .p-xlarge: For Paragraph Level text - 20px
 
-.p-large {
-font-size: var(--p-large);
-}
+- .p-large: For Paragraph Level Text - 16px
 
-.p-medium {
-font-size: var(--p-medium);
-}
+- .p-medium: For Paragraph Level Text - 14px
 
-.p-small {
-font-size: var(--p-small);
-}
+- .p-small: For paragraph level text - 12px
 
-button {
-padding: 16px, 32px, 16px, 32px;
-color: var(--white);
-background-color: var(--primary-color);
-border-radius: 8px;
-font-size: var(--p-small);
-}
+## Button Style
 
-.mg-topBotton {
-margin-block: 1rem;
-}
+- button: Button Style
+
+.mg-topBotton:
 
 .mg-top {
 margin-top: 1rem;
