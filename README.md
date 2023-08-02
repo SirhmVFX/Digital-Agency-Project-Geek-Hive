@@ -8,7 +8,11 @@
 
 # Use the follow utility classes to style your html elements
 
-- .container: a flec class for a two column section
+## Sections
+
+- .container: a flex class for a two column section
+
+## Font Classes
 
 - h1: For Heading 1 Level Text - 50px
 
@@ -34,32 +38,20 @@
 
 - button: Button Style
 
+## Margin and Padding Style
+
 - .mg-topBotton: For Margin Style 16px top and Bottom
 
-.mg-top {
-margin-top: 1rem;
-}
+- .mg-top: For Margin Style of top only 16px
 
-.mg-bottom {
-margin-bottom: 1rem;
-}
+- .mg-bottom: For margin style of bottom only 16px
 
-.pd-inline {
-padding-inline: 1rem;
-}
+- .pd-inline: For padding left and right 16px
 
-.primary-color {
-color: var(--primary-color);
-}
+- .primary-color: For Primary Color - #0072C6
 
-.grey {
-color: var(--grey);
-}
+- .grey: For Grey Color - #707070
 
-.black {
-color: var(--black);
-}
+- .black: For Black - #000
 
-.white {
-color: var(--white)
-}
+- .white: #fff
