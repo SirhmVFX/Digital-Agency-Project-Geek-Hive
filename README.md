@@ -34,7 +34,7 @@
 
 - button: Button Style
 
-.mg-topBotton:
+- .mg-topBotton: For Margin Style 16px top and Bottom
 
 .mg-top {
 margin-top: 1rem;
