@@ -55,3 +55,7 @@
 - .black: For Black - #000
 
 - .white: #fff
+
+\*\* This Project was collaborated between the Following members of Geek Hive Community
+
+- The Fullstack Mechanic (sirhmvfx@gmail.com)
