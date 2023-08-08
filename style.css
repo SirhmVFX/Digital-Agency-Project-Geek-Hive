@@ -153,6 +153,26 @@ button {
 /* GENERAL STYLES */
 
 
+/* HEADER */
+
+header {
+
+}
+
+nav {
+    display: flex;
+    
+}
+
+.nav_menu {
+    display: none;
+}
+
+.header_button {
+    display: none;
+}
+
+
 
 
 
