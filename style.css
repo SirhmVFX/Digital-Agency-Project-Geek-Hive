@@ -161,6 +161,9 @@ header {
 
 nav {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
     
 }
 
@@ -170,6 +173,19 @@ nav {
 
 .header_button {
     display: none;
+}
+
+.hamburger {
+    display: block;
+    cursor: pointer;
+}
+
+.line {
+    width: 30px;
+    height: 3px;
+    background-color: var(--black);
+    margin-bottom: 2px;
+    border-radius: 10px;
 }
 
 
