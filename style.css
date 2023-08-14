@@ -110,11 +110,12 @@ h6 {
 
 
 button {
-    padding: 16px, 32px, 16px, 32px;
+    padding: 16px 32px 16px 32px;
     color: var(--white);
     background-color: var(--primary-color);
     border-radius: 8px;
     font-size: var(--p-small);
+    border: none;
 }
 
 .mg-topBotton {
@@ -177,7 +178,7 @@ nav {
     padding: 1rem;
     height: 0px;
     opacity: 0;
-    transition: ;
+    transition: .4s;
 }
 
 .nav_menu li {
@@ -233,9 +234,36 @@ nav {
 
 
 /* RESPONSIVENESS */
-@media (min-width: 1440px) {
+@media (min-width: 60rem) {
     .container {
         flex-direction: row;
+    }
+
+    .hamburger {
+        display: none;
+    }
+
+    .nav_menu {
+        opacity: 1;
+        display: flex;
+        gap: 24px;
+        top: 10px; 
+        justify-content: center;
+        position: absolute;
+    }
+
+
+
+    .nav_menu li a:hover {
+        background-color: var(--primary-color);
+        padding: 5px 15px;
+        color: white;
+        transition: .2s;
+        border-radius: 8px;
+    }
+
+    .header_button {
+        display: block;
     }
 }
 
