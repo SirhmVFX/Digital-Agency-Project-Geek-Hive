@@ -232,6 +232,15 @@ nav {
 
 
 
+/* FOOTER */
+footer {
+    background-color: var(--primary-color);
+    color: var(--white);
+    padding: 1rem;
+}
+
+
+
 
 /* RESPONSIVENESS */
 @media (min-width: 60rem) {
