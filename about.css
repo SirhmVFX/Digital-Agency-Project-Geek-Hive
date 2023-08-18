@@ -1,0 +1,47 @@
+main .about-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 4rem;
+}
+
+main .about-us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1.5rem;
+}
+
+
+section div img {
+    width: 42vw;
+}
+
+section .text {
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+}
+
+.container {
+    column-gap: 50px;
+}
+
+@media (max-width: 767px) {
+
+    .container div {
+        align-items: center;
+    }
+
+    .container div img {
+        width: 100%;
+    }
+
+    .container {
+        row-gap: 2rem;
+    }
+
+    .mission {
+      flex-direction: column-reverse;
+    }
+  }
