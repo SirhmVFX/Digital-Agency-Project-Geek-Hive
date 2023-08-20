@@ -236,18 +236,37 @@ nav {
 footer {
     background-color: var(--primary-color);
     color: var(--white);
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
+    padding: 2rem;
+    
 }
+
+.footer-links {
+    display: grid;
+    gap: 2rem;
+} 
 
 footer li {
     list-style: none;
+    line-height: 2;
+}
+
+footer ul {
+    margin-top: 1rem;
 }
 
 .cont {
     display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+footer img {
+    width: 20px;
+}
+
+.footer-copywright {
+    display: flex;
+    justify-content: center;
 }
 
 
@@ -286,6 +305,13 @@ footer li {
 
     .header_button {
         display: block;
+    }
+
+    .footer-links {
+        grid-auto-flow: column;
+        grid-auto-columns: 1fr;
+        padding: 3rem;
+
     }
 }
 
