@@ -279,7 +279,6 @@ footer img {
 /* RESPONSIVENESS */
 @media (min-width: 60rem) {
 
-
     .hamburger {
         display: none;
     }
