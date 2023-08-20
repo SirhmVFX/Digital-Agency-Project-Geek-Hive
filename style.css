@@ -179,6 +179,8 @@ nav {
     height: 0px;
     opacity: 0;
     transition: .4s;
+    background-color: var(--white);
+
 }
 
 .nav_menu li {
@@ -225,7 +227,7 @@ nav {
 }
 
 .nav_menu.active {
-    height: 120px;
+    height: 150px;
     opacity: 1;
     transition: .4s;
 }
@@ -276,9 +278,7 @@ footer img {
 
 /* RESPONSIVENESS */
 @media (min-width: 60rem) {
-    .container {
-        flex-direction: row;
-    }
+
 
     .hamburger {
         display: none;
@@ -312,6 +312,10 @@ footer img {
         grid-auto-columns: 1fr;
         padding: 3rem;
 
+    }
+
+    .nav_menu {
+        background-color:  transparent;
     }
 }
 
