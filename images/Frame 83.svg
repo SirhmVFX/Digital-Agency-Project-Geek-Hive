@@ -1,0 +1,32 @@
+<svg width="176" height="32" viewBox="0 0 176 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1290_3050" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32">
+<rect width="32" height="32" fill="#FFCD3C"/>
+</mask>
+<g mask="url(#mask0_1290_3050)">
+<path d="M7.76667 29.3333L9.93334 19.9667L2.66667 13.6667L12.2667 12.8333L16 4L19.7333 12.8333L29.3333 13.6667L22.0667 19.9667L24.2333 29.3333L16 24.3667L7.76667 29.3333Z" fill="#FFCD3C"/>
+</g>
+<mask id="mask1_1290_3050" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="36" y="0" width="32" height="32">
+<rect x="36" width="32" height="32" fill="#FFCD3C"/>
+</mask>
+<g mask="url(#mask1_1290_3050)">
+<path d="M43.7667 29.3333L45.9333 19.9667L38.6667 13.6667L48.2667 12.8333L52 4L55.7333 12.8333L65.3333 13.6667L58.0667 19.9667L60.2333 29.3333L52 24.3667L43.7667 29.3333Z" fill="#FFCD3C"/>
+</g>
+<mask id="mask2_1290_3050" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="72" y="0" width="32" height="32">
+<rect x="72" width="32" height="32" fill="#FFCD3C"/>
+</mask>
+<g mask="url(#mask2_1290_3050)">
+<path d="M79.7667 29.3333L81.9333 19.9667L74.6667 13.6667L84.2667 12.8333L88 4L91.7333 12.8333L101.333 13.6667L94.0667 19.9667L96.2333 29.3333L88 24.3667L79.7667 29.3333Z" fill="#FFCD3C"/>
+</g>
+<mask id="mask3_1290_3050" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="108" y="0" width="32" height="32">
+<rect x="108" width="32" height="32" fill="#FFCD3C"/>
+</mask>
+<g mask="url(#mask3_1290_3050)">
+<path d="M115.767 29.3333L117.933 19.9667L110.667 13.6667L120.267 12.8333L124 4L127.733 12.8333L137.333 13.6667L130.067 19.9667L132.233 29.3333L124 24.3667L115.767 29.3333Z" fill="#FFCD3C"/>
+</g>
+<mask id="mask4_1290_3050" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="144" y="0" width="32" height="32">
+<rect x="144" width="32" height="32" fill="#FFCD3C"/>
+</mask>
+<g mask="url(#mask4_1290_3050)">
+<path d="M151.767 29.3333L153.933 19.9667L146.667 13.6667L156.267 12.8333L160 4L163.733 12.8333L173.333 13.6667L166.067 19.9667L168.233 29.3333L160 24.3667L151.767 29.3333Z" fill="#FFCD3C"/>
+</g>
+</svg>
