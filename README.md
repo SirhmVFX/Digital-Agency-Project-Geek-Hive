@@ -59,3 +59,4 @@
 \*\* This Project was collaborated between the Following members of Geek Hive Community
 
 - The Fullstack Mechanic (sirhmvfx@gmail.com)
+- Cozyamy (cozyamy@gmail.com)
