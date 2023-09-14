@@ -1,0 +1,74 @@
+main .about-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 4rem;
+}
+
+main .about-us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1.5rem;
+}
+
+
+section div img {
+    width: 42vw;
+}
+
+
+
+section .text {
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+}
+
+.container {
+    display: flex;
+}
+
+.vision {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    align-items: center;
+}
+
+.vision2 {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    align-items: center;
+}
+
+
+@media (max-width: 767px) {
+
+    .container div {
+        align-items: center;
+    }
+    
+    .vision {
+        flex-direction: column;
+    }
+
+    .vision2 {
+        flex-direction: column-reverse;
+    }
+
+    .container div img {
+        width: 100%;
+    }
+
+    .container {
+        row-gap: 2rem;
+    }
+
+    .mission {
+        flex-direction: column-reverse;
+    }
+
+    
+}

@@ -157,9 +157,6 @@ button {
 
 /* HEADER */
 
-header {
-
-}
 
 nav {
     display: flex;
@@ -271,7 +268,6 @@ footer img {
     display: flex;
     justify-content: center;
 }
-<<<<<<< HEAD
 
 /* LANDING PAGE START */
 .index_main {
@@ -632,7 +628,7 @@ footer img {
 }
 
 /* LANDING PAGE STYLE END */
-=======
+
 /*privacy page*/
 .upper{
     padding: 55px;
@@ -661,9 +657,6 @@ footer img {
 .box2{
     width: 400px;
 }
-
-
->>>>>>> origin/privacy
 
 
 
@@ -710,12 +703,10 @@ footer img {
     .nav_menu {
         background-color:  transparent;
     }
-<<<<<<< HEAD
-=======
+
     .flexi{
         display: grid;
     }
->>>>>>> origin/privacy
 }
 
 /* LANDING PAGE RESPONSIVENESS START */
